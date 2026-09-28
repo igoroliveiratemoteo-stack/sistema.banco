@@ -76,7 +76,7 @@ void cadastrar(vector<cliente>& clientes)
     cout << "Cadastro realizado." <<endl;
 
 
-        // Parei na parte de cadastro/login com o numeo da conta onde nao pode ter duplicidade
+        
 }
 
 int fazerLogin(vector<cliente>& clientes){
